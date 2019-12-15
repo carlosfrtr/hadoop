@@ -1,2 +1,2 @@
 # hadoop
-Repository of hadoop implementation
+Repository for test of hadoop implementation
